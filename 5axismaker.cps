@@ -1931,5 +1931,3 @@ function onClose() {
 function setProperty(property, value) {
   properties[property].current = value;
 }
-
-
